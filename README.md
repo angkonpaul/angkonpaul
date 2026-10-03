@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Angkon Paul! 👋
 
-<!--
-**angkonpaul/angkonpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science Technology** undergraduate student at **Shinawatra University (SIU)** in Thailand. I am passionate about software engineering, building clean applications, and solving real-world computing problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+* 🎓 **Education:** Pursuing a Bachelor of Science in Computer Science Technology at SIU.
+* 📍 **Location:** Pathum Thani , Thailand.
+* 💼 **Goal:** Seeking a tech internship within the Faculty of Engineering and Technology to develop impactful internal tools and research software.
+* 🌱 **Current Focus:** Leveling up my software development stack and mastering system logic.
+
+---
+
+### 🛠️ Tech Stack & Skills
+* **Languages:** Python, JavaScript, Java, HTML/CSS, SQL
+* **Tools & Platforms:** Git, GitHub, VS Code
+* **Core Concepts:** Object-Oriented Programming (OOP), Data Structures, Database Management Systems (DBMS)
+
+---
+
